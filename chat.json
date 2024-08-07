@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "replace with a form to submit dog walking details",
+        "message_id": "guest07082024184354",
+        "timestamp": "07082024184354",
+        "component_file_name": "dark_footer_component_1723055706",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, here's an example of a comprehensive top nav with placeholders for a digital assets dashboard:\n\n[LOGO] [HOME] [PRODUCTS] [SERVICES] [ABOUT US] [CONTACT US]\n\n[DASHBOARD] [ASSETS] [PORTFOLIO] [ANALYTICS] [SETTINGS]",
         "message_id": "guest07082024184211",
