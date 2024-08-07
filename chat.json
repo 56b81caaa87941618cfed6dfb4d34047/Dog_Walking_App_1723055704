@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "replace with a new form",
+        "message_id": "guest07082024184801",
+        "timestamp": "07082024184801",
+        "component_file_name": "dark_footer_component_1723055706",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sorry, as an AI language model, I cannot access Twitter links directly. Please provide the content of the tweet you want me to respond to.",
         "message_id": "guest07082024184752",
