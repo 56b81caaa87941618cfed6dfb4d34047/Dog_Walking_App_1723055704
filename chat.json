@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sorry, but I need more context to properly understand what you are asking to replace. Could you please provide more details or clarify your request?",
+        "message_id": "guest07082024184801",
+        "timestamp": "07082024184802",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "replace with a new form",
         "message_id": "guest07082024184801",
